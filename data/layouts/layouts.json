@@ -11807,7 +11807,7 @@
     {
       "id": "LAYOUT_NATIONAL_PARK_NORMAL_HNS",
       "name": "NationalPark_hns_Layout",
-      "width": 54,
+      "width": 48,
       "height": 56,
       "primary_tileset": "gTileset_Johto_General_Hns",
       "secondary_tileset": "gTileset_NationalPark_Hns",
