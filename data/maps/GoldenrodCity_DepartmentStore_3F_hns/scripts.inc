@@ -27,15 +27,16 @@ GoldenrodDeptStore3_EventScript_Rocker::
 	end
 
 GoldenrodDeptStore_Text_3FSuperNerd:
-    .string "I, I, I'm really impatient!\p"
-    .string "I use X SPEED in battle to speed up\n"
-    .string "my POKéMON.$"
+    .string "I used an Ability Capsule and my\n"
+    .string "POKéMON's ability changed!$"
 
 GoldenrodDeptStore_Text_3FRocker:
-    .string "Hey! When you battle, do you use X\n"
-    .string "SPECIAL?\p"
-    .string "It's awesome. It really jacks up\n"
-    .string "SPECIAL ATTACK!$"
+    .string "Hey! I love using unique\n"
+    .string "POKé BALLS!\p"
+    .string "They sell BALLS imported\n"
+	.string "from other regions here.\p"
+    .string "You won't find the kind KURT\n"
+    .string "can make, they're custom made!$"
 
 GoldenrodDeptStore3_EventScript_Clerk::
 	lock
@@ -49,15 +50,15 @@ GoldenrodDeptStore3_EventScript_Clerk::
 
 	.align 2
 GoldenrodDeptStore3_Pokemart:
-	.2byte ITEM_X_SPEED
-	.2byte ITEM_X_SP_ATK
-	.2byte ITEM_X_ATTACK
-	.2byte ITEM_X_DEFENSE
-	.2byte ITEM_DIRE_HIT
-	.2byte ITEM_GUARD_SPEC
-	.2byte ITEM_X_ACCURACY
+	.2byte ITEM_REPEAT_BALL
+	.2byte ITEM_TIMER_BALL
+	.2byte ITEM_QUICK_BALL
+	.2byte ITEM_DUSK_BALL
+	.2byte ITEM_LUXURY_BALL
+	.2byte ITEM_ABILITY_CAPSULE
+	.2byte ITEM_ABILITY_PATCH
 	pokemartlistend
 
 GoldenrodDeptStore_Text_3FDirectory:
-    .string "For Victory Seekers\p"
-    .string "3F BATTLE COLLECTION$"
+    .string "Shop The World\p"
+    .string "3F IMPORTED GOODS$"

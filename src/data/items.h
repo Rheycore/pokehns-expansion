@@ -1651,7 +1651,7 @@ const struct ItemInfo gItemsInfo[] =
     #elif I_PRICE >= GEN_7
         .price = 10000,
     #else
-        .price = 1000,
+        .price = 10000,
     #endif
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
@@ -1669,7 +1669,7 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("ABILITY PATCH"),
         .pluralName = ITEM_PLURAL_NAME("Ability Patches"),
-        .price = (I_PRICE >= GEN_9) ? 250000 : 20,
+        .price = (I_PRICE >= GEN_9) ? 250000 : 20000,
         .holdEffectParam = 0,
         .description = COMPOUND_STRING(
             "Turns the ability\n"
