@@ -2397,3 +2397,7 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/Akala_Cave_hns/scripts.inc"
 
 .endif
+
+	.include "data/maps/LilacForest/scripts.inc"
+
+	.include "data/maps/GateLilacNatPark/scripts.inc"

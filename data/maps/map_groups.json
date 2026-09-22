@@ -426,7 +426,8 @@
     "SafariZoneGate_PokemonCenter_hns",
     "SafariZoneGate_SafariZoneEntrance_hns",
     "Route27_House_hns",
-    "MtSilver_PokemonCenter_hns"
+    "MtSilver_PokemonCenter_hns",
+    "GateLilacNatPark"
   ],
   "gMapGroup_IndoorKantoRoutes_Hns": [
     "Route26_House1_hns",
@@ -549,7 +550,8 @@
     "RuinsOfAlph_WordsRoom2_hns",
     "RuinsOfAlph_WordsRoom3_hns",
     "RuinsOfAlph_WordsRoom4_hns",
-    "Route19_Cave_hns"
+    "Route19_Cave_hns",
+    "LilacForest"
   ],
   "gMapGrouop_OutdoorAlola_Hns": [
     "PoniIsle_hns",

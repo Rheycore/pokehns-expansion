@@ -1729,6 +1729,10 @@
       "width": 1,
       "height": 1,
       "in_hns": true
+    },
+    {
+      "id": "MAPSEC_LILAC_FOREST",
+      "name": "LILAC FOREST"
     }
   ],
   "hns_map_sections": [

@@ -11807,7 +11807,7 @@
     {
       "id": "LAYOUT_NATIONAL_PARK_NORMAL_HNS",
       "name": "NationalPark_hns_Layout",
-      "width": 48,
+      "width": 54,
       "height": 56,
       "primary_tileset": "gTileset_Johto_General_Hns",
       "secondary_tileset": "gTileset_NationalPark_Hns",
@@ -16201,6 +16201,30 @@
       "secondary_tileset": "gTileset_EcruteakTheater_Hns",
       "border_filepath": "data/layouts/NewSinjoh_KimonoHideout_hns/border.bin",
       "blockdata_filepath": "data/layouts/NewSinjoh_KimonoHideout_hns/map.bin",
+      "game_version": "hns",
+      "layout_version": "hns"
+    },
+    {
+      "id": "LAYOUT_LILAC_FOREST",
+      "name": "LilacForest_Layout",
+      "width": 80,
+      "height": 48,
+      "primary_tileset": "gTileset_Johto_General_Hns",
+      "secondary_tileset": "gTileset_IlexForest_Hns",
+      "border_filepath": "data/layouts/LilacForest/border.bin",
+      "blockdata_filepath": "data/layouts/LilacForest/map.bin",
+      "game_version": "hns",
+      "layout_version": "hns"
+    },
+    {
+      "id": "LAYOUT_GATE_LILAC_NAT_PARK",
+      "name": "GateLilacNatPark_Layout",
+      "width": 13,
+      "height": 9,
+      "primary_tileset": "gTileset_Johto_Building_Hns",
+      "secondary_tileset": "gTileset_Gate_Standard_Hns",
+      "border_filepath": "data/layouts/GateLilacNatPark/border.bin",
+      "blockdata_filepath": "data/layouts/GateLilacNatPark/map.bin",
       "game_version": "hns",
       "layout_version": "hns"
     }

@@ -1,0 +1,5 @@
+fieldmap:
+  metatile_attribute_size: 2
+
+tileset:
+  extrinsic_transparency: [255, 0, 254, 255]
